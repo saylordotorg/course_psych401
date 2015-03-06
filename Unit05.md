@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Somatoform Disorders** <span id="5"></span> 
 *From Plato to Aristotle to Descartes, philosophers have long debated
 the nature of the mind-body connection. This question has intrigued many

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Influential Paradigms in Abnormal Psychology** <span
 id="2"></span> 
 *Since the dawn of time, the origins of abnormal behavior have been

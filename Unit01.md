@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Abnormal Psychology** <span id="1"></span> 
 *What is abnormal behavior? Why does it exist? How have our conceptions
 of abnormal behavior changed and progressed over the years? This unit

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Classification Systems and Research Methods in Abnormal
 Psychology** <span id="3"></span> 
 *What are the major categories of psychological disorders and the

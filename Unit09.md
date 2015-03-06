@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Dissociative Disorders** <span id="9"></span> 
 *The name dissociative disorders is fitting for this group of diagnoses,
 which is characterized by a dissociation from a person’s identity. One

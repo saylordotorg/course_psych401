@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH401: Abnormal Behavior"
 -------------------------------------------------
 

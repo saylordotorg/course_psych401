@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Mood Disorders** <span id="7"></span> 
 *Depression has been described as the common cold of psychological
 disorders. Although this metaphor accurately captures the fact that

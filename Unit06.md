@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Eating and Sleeping Disorders** <span id="6"></span> 
 *Like somatoform disorders, eating and sleeping disorders can often be
 conceptualized as manifestations of psychological issues in physical

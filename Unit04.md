@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Anxiety Disorders** <span id="4"></span> 
 *The first three units have provided an introduction to the field of
 abnormal psychology, highlighting the history, theoretical paradigms,

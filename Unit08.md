@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Schizophrenia** <span id="8"></span> 
 *Schizophrenia is a chronic, severe, and debilitating mental disease. It
 can lead to sustained hallucinations and delusions, among other

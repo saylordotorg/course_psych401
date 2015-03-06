@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH401: Abnormal Behavior"
+course_description: "A detailed examination of the basic concepts surrounding the diagnosis and treatment of abnormal psychological phenomena."
+next: ../../../
+previous: ../Unit09
+---
 **Unit 10: Personality Disorders** <span id="10"></span> 
 *The disorders we have learned about thus far are treatable through both
 psychotropic medication and psychosocial interventions. These disorders
