@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "PSYCH401: Abnormal Behavior"
 -------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_psych401) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 Abnormal psychology is one of the most recognizable and intriguing
 subfields of study in psychology. Part of what makes this field so
 intriguing is that it challenges us to define what is normal and
