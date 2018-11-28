@@ -168,7 +168,7 @@ approximately 15 minutes to review this material. *
     Link: *Introduction to Psychology*, v. 1.0.1: [“Chapter 9: Defining
     Psychological Disorders – Section 9.1: Psychological Disorder: What
     Makes a Behavior
-    ‘Abnormal’?”](http://www.saylor.org/site/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
+    ‘Abnormal’?”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
         
      Instructions: Read Section 9.1 from Chapter 9 for an overview of
     the terms and major categories of the *DSM-IV*.  
@@ -189,7 +189,7 @@ approximately 15 minutes to review this material. *
     Link: *Introduction to Psychology*, v. 1.0.1: [“Chapter 2:
     Psychological Science – Section 2.2: Psychologists Use Descriptive,
     Correlational, and Experimental Research Designs to Understand
-    Behavior”](http://www.saylor.org/site/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
+    Behavior”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
         
      Instructions: Read Section 2.2 of Chapter 2 for an overview of the
     research methods in abnormal psychology. This reading covers the
