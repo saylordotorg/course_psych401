@@ -545,14 +545,14 @@ pages 7 and 8.*
 -   **Assessment: The Saylor Foundation’s “Diagnosis and Treatment:
     Schizophrenia”**
     Link: The Saylor Foundation’s [“Diagnosis and Treatment:
-    Schizophrenia”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH401-Assessment-3-FINAL.pdf)
+    Schizophrenia”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH401-Assessment-3-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete this assessment, which will help test your
     knowledge related to the diagnoses and treatment of
     schizophrenia.When you are done, check your work against The Saylor
     Foundation’s [“Diagnosis and Treatment: Schizophrenia Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH401-Assessment-3-AnswerKey-FINAL.pdf) (PDF).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH401-Assessment-3-AnswerKey-FINAL.pdf) (PDF).  
       
      Completing this assessment should take approximately 30 minutes.
 

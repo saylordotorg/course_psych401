@@ -150,7 +150,7 @@ review this material. *
     Measurement”**
     Link: *Introduction to Psychology*, v. 1.0.1: [“Chapter 8:
     Personality – Section 8.1: Personality and Behavior: Approaches and
-    Measurement”](http://www.saylor.org/site/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
+    Measurement”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
         
      Instructions: Read Section 8.1 from Chapter 8 to gain an overview
     of personality traits and their assessment.  

@@ -455,14 +455,14 @@ Chapter 31. *
 -   **Assessment: The Saylor Foundation’s “Diagnosis and Treatment: Mood
     Disorder”**
     Link: The Saylor Foundation’s [“Diagnosis and Treatment: Mood
-    Disorder”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH401-Assessment-2-FINAL.pdf)
+    Disorder”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH401-Assessment-2-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete this assessment, which will help test your
     knowledge related to the diagnoses and treatment of mood disorders.
     When you are done, check your work against The Saylor Foundation’s
     [“Diagnosis and Treatment: Mood Disorder Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH401-Assessment2-AnswerKey-FINAL.pdf)(PDF).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH401-Assessment2-AnswerKey-FINAL.pdf)(PDF).  
       
      Completing this assessment should take approximately 30 minutes.
 

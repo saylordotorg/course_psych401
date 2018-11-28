@@ -140,7 +140,7 @@ materials:
 -   University of Central Oklahoma: Dr. Caleb W. Lack’s [*Abnormal
     Psychology: An E-text*](http://abnormalpsych.wikispaces.com/)
 -   [*Introduction to
-    Psychology*](http://www.saylor.org/site/textbooks/Introduction%20to%20Psychology.pdf),
+    Psychology*](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf),
     v. 1.0.1
 -   University of Tasmania: Dr. Saxby Pridmore’s *Download of
     Psychiatry*
